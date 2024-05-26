@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835909115684",
+    "project_id": "fir-app-dio",
+    "storage_bucket": "fir-app-dio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835909115684:android:ffdb3b1dc9cc0a2eeb5db1",
+        "android_client_info": {
+          "package_name": "com.guilhermesantos.dioproject.firebaseappdio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx01EDvdp6FqHv40mluy4N7vEfWcaKmzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
